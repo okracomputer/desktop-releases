@@ -1,2 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>okraPDF Desktop Updates</title><link>https://raw.githubusercontent.com/okrapdf/desktop-releases/main/appcast.xml</link><description>Signed prerelease updates for okraPDF on Mac.</description><language>en</language></channel></rss>
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>okraPDF Desktop Updates</title>
+    <link>https://raw.githubusercontent.com/okrapdf/desktop-releases/main/appcast.xml</link>
+    <description>Signed prerelease updates for okraPDF on Mac.</description>
+    <language>en</language>
+    <item>
+      <title>okraPDF Desktop v1.0.0-rc.25</title>
+      <sparkle:version>202609092327</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-rc.25</sparkle:shortVersionString>
+      <pubDate>Wed, 09 Sep 2026 23:32:52 +0000</pubDate>
+      <link>https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.25</link>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.25/Okra-1.0.0-rc.25.dmg" sparkle:edSignature="DqDsxU0C5V8WvJbqsJSOgoOqk+au0E58G3clfQ9LcXWt8NGyHcolk9Oq4Lexg/ruYrhLhxbTk9/eABAMTG0uAw==" length="4500936" type="application/octet-stream" />
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+    </item>
+  </channel>
+</rss>
