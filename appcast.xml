@@ -6,6 +6,16 @@
     <description>Signed prerelease updates for okraPDF on Mac.</description>
     <language>en</language>
     <item>
+      <title>okraPDF Desktop v1.0.0-rc.29</title>
+      <sparkle:version>202609121801</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-rc.29</sparkle:shortVersionString>
+      <pubDate>Sat, 12 Sep 2026 18:09:51 +0000</pubDate>
+      <link>https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.29</link>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.29/Okra-1.0.0-rc.29.dmg" sparkle:edSignature="74gTrMVgtwdhazuRYe0QRAEHdIo4NEaX66aH1UBTazF8g54LUkb13UXyhgHAZxlwlbcrEAjagY+tc6VKSrjMAA==" length="60705584" type="application/octet-stream" />
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+    </item>
+    <item>
       <title>okraPDF Desktop v1.0.0-rc.26</title>
       <sparkle:version>202609112215</sparkle:version>
       <sparkle:shortVersionString>1.0.0-rc.26</sparkle:shortVersionString>
