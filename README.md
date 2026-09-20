@@ -4,7 +4,9 @@ Official public downloads for okraPDF on Mac. The app's source is maintained sep
 
 ## Mac installer
 
-[Download okraPDF v1.0.0-rc.42 for Apple silicon](https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.42/Okra-1.0.0-rc.42.dmg)
+[Download okraPDF v1.0.0-rc.44 for Apple silicon](https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.44/Okra-1.0.0-rc.44.dmg)
+
+The compact Markup palette brings Pen, Highlight, Eraser and Text together with independent styles, swatches, custom colors and Apply/Cancel controls. OCR review adds a source-box toggle, compact Tags and Preview, and selected model/processing-location visibility. This candidate also fixes a workspace-service startup cleanup wait. Source PDFs remain unchanged.
 
 Gemini 3.8 Flash and Gemini 3.5 Flash are available in **Settings → Models** and **OCR & Extract → Model** with your own Gemini API key. Both use high thinking, up to 65,536 output tokens and the same ParseBench layout prompts. Request errors show Google’s details; incomplete pages can be retried with Resume. Local defaults remain unchanged.
 
@@ -12,9 +14,9 @@ Extracted Markdown renders in **Preview**; **Tags** keeps the source-linked bloc
 
 The application and installer are Developer ID signed and Apple notarized. This prerelease requires macOS 13 or later on Apple silicon. Full Preview parity remains in progress.
 
-[Release notes and SHA-256 checksum](https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.42)
+[Release notes and SHA-256 checksum](https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.44)
 
-[Previous candidate: RC.41](https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.41)
+[Previous candidate: RC.42](https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.42). RC.43 was not published.
 
 ## Updates
 
