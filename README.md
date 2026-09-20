@@ -4,7 +4,9 @@ Official public downloads for okraPDF on Mac. The app's source is maintained sep
 
 ## Mac installer
 
-[Download okraPDF v1.0.0-rc.44 for Apple silicon](https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.44/Okra-1.0.0-rc.44.dmg)
+[Download okraPDF v1.0.0-rc.45 for Apple silicon](https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.45/Okra-1.0.0-rc.45.dmg)
+
+The empty workspace now centers Open PDF and a compact recent-file list. Recent rows have short folder labels, dates and consistent action menus. Locate appears inline only after a known source-access issue; Locate Original remains available in the row menu.
 
 The compact Markup palette brings Pen, Highlight, Eraser and Text together with independent styles, swatches, custom colors and Apply/Cancel controls. OCR review adds a source-box toggle, compact Tags and Preview, and selected model/processing-location visibility. This candidate also fixes a workspace-service startup cleanup wait. Source PDFs remain unchanged.
 
@@ -14,9 +16,9 @@ Extracted Markdown renders in **Preview**; **Tags** keeps the source-linked bloc
 
 The application and installer are Developer ID signed and Apple notarized. This prerelease requires macOS 13 or later on Apple silicon. Full Preview parity remains in progress.
 
-[Release notes and SHA-256 checksum](https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.44)
+[Release notes and SHA-256 checksum](https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.45)
 
-[Previous candidate: RC.42](https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.42). RC.43 was not published.
+[Previous candidate: RC.44](https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.44). RC.43 was not published.
 
 ## Updates
 
