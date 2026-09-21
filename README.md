@@ -4,21 +4,19 @@ Official public downloads for okraPDF on Mac. The app's source is maintained sep
 
 ## Mac installer
 
-[Download okraPDF v1.0.0-rc.47 for Apple silicon](https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.47/Okra-1.0.0-rc.47.dmg)
+[Download okraPDF v1.0.0-rc.49 for Apple silicon](https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.49/Okra-1.0.0-rc.49.dmg)
 
-The empty workspace centers Open PDF and a compact recent-file list, without large brand artwork or repeated logos. Recent rows use neutral document placeholders, short folder labels, dates and consistent action menus. Locate appears inline only after a known source-access issue; Locate Original remains available in the row menu. The native thumbnail sidebar and page organization from RC.46 remain included.
+Choose a model from the compact **Parse with** picker, with its readiness and hardware requirements visible. Opening a file or changing models never starts a parse or model download. Parsed structured output opens in **Tags**, with source-linked blocks and tables and green selection on the page. Preview, JSON and CSV retain their copy and save actions.
 
-The compact Markup palette brings Pen, Highlight, Eraser and Text together with independent styles, swatches, custom colors and Apply/Cancel controls. OCR review adds a source-box toggle, compact Tags and Preview, and selected model/processing-location visibility. This candidate also fixes a workspace-service startup cleanup wait. Source PDFs remain unchanged.
+Inspect and explicitly approve redaction candidates before exporting a separate redacted copy. New detections start with zero approvals, and approvals are not restored from disk. Selecting a candidate only locates it. Unique native text can refine a candidate's box; scanned or ambiguous text keeps its source block for review. The app refuses to overwrite the original PDF, including through symlinks and hardlinks.
 
-Gemini 3.8 Flash and Gemini 3.5 Flash are available in **Settings → Models** and **OCR & Extract → Model** with your own Gemini API key. Both use high thinking, up to 65,536 output tokens and the same ParseBench layout prompts. Request errors show Google’s details; incomplete pages can be retried with Resume. Local defaults remain unchanged.
-
-Extracted Markdown renders in **Preview**; **Tags** keeps the source-linked block inspector. The output tabs are Preview, Tags, JSON and CSV. Copy and Save preserve the original Markdown.
+Native document editing, recent files, the Markup palette, thumbnail sidebar, page organization and CLI remain available. Local models process on your Mac; the optional Gemini integration sends selected pages to Google when explicitly used with your own API key. Models have their own setup and hardware requirements; Apple Vision needs no model download.
 
 The application and installer are Developer ID signed and Apple notarized. This prerelease requires macOS 13 or later on Apple silicon. Full Preview parity remains in progress.
 
-[Release notes and SHA-256 checksum](https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.47)
+[Release notes and SHA-256 checksum](https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.49)
 
-[Previous candidate: RC.46](https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.46). RC.43 was not published.
+[Previous candidate: RC.48](https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.48). RC.43 was not published.
 
 ## Updates
 
