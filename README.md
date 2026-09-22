@@ -1,10 +1,12 @@
-# okraPDF Desktop Downloads
+# Okra Desktop Downloads
 
-Official public downloads for okraPDF on Mac. The app's source is maintained separately in a private repository.
+Official public downloads for Okra on Mac. The app's source is maintained separately in a private repository.
 
 ## Mac installer
 
-[Download okraPDF v1.0.0-rc.49 for Apple silicon](https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.49/Okra-1.0.0-rc.49.dmg)
+[Download Okra v1.0.0-rc.50 for Apple silicon](https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.50/Okra-1.0.0-rc.50.dmg)
+
+Hover or select a parsed block to connect its PDF box to the matching Tags card with a green curve. The connection follows scrolling, zoom and resizing, and hides when either endpoint leaves view.
 
 Choose a model from the compact **Parse with** picker, with its readiness and hardware requirements visible. Opening a file or changing models never starts a parse or model download. Parsed structured output opens in **Tags**, with source-linked blocks and tables and green selection on the page. Preview, JSON and CSV retain their copy and save actions.
 
@@ -14,9 +16,9 @@ Native document editing, recent files, the Markup palette, thumbnail sidebar, pa
 
 The application and installer are Developer ID signed and Apple notarized. This prerelease requires macOS 13 or later on Apple silicon. Full Preview parity remains in progress.
 
-[Release notes and SHA-256 checksum](https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.49)
+[Release notes and SHA-256 checksum](https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.50)
 
-[Previous candidate: RC.48](https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.48). RC.43 was not published.
+[Previous candidate: RC.49](https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.49). RC.43 was not published.
 
 ## Updates
 
