@@ -4,7 +4,9 @@ Official public downloads for Okra on Mac. The app's source is maintained separa
 
 ## Mac installer
 
-[Download Okra v1.0.0-rc.50 for Apple silicon](https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.50/Okra-1.0.0-rc.50.dmg)
+[Download Okra v1.0.0-rc.51 for Apple silicon](https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.51/Okra-1.0.0-rc.51.dmg)
+
+Stopping the local Presidio redaction worker can no longer hang the app. Shutdown now takes at most four seconds, also when the worker ignores the stop request.
 
 Hover or select a parsed block to connect its PDF box to the matching Tags card with a green curve. The connection follows scrolling, zoom and resizing, and hides when either endpoint leaves view.
 
@@ -16,9 +18,9 @@ Native document editing, recent files, the Markup palette, thumbnail sidebar, pa
 
 The application and installer are Developer ID signed and Apple notarized. This prerelease requires macOS 13 or later on Apple silicon. Full Preview parity remains in progress.
 
-[Release notes and SHA-256 checksum](https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.50)
+[Release notes and SHA-256 checksum](https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.51)
 
-[Previous candidate: RC.49](https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.49). RC.43 was not published.
+[Previous candidate: RC.50](https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.50). RC.43 was not published.
 
 ## Updates
 
