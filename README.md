@@ -6,7 +6,7 @@ Official public downloads for Okra on Mac. The app's source is maintained separa
 
 [Download Okra v1.0.0-rc.52 for Apple silicon](https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.52/Okra-1.0.0-rc.52.dmg)
 
-Stopping the local Presidio redaction worker can no longer hang the app. Shutdown now takes at most four seconds, also when the worker ignores the stop request.
+Open With → Okra in Finder now shows the PDF in one window, reusing an empty Okra window instead of leaving it behind. Redact shows progress with a Cancel button, groups candidates by type with Approve All, skips street numbers and ZIP codes that were flagged as dates, and refuses to save a copy if any approved box cannot be applied. The format bar stays pinned while blocks scroll, and a selected block's source box is centered on the page.
 
 Hover or select a parsed block to connect its PDF box to the matching Tags card with a green curve. The connection follows scrolling, zoom and resizing, and hides when either endpoint leaves view.
 
