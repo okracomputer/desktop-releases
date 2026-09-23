@@ -4,9 +4,9 @@ Official public downloads for Okra on Mac. The app's source is maintained separa
 
 ## Mac installer
 
-[Download Okra v1.0.0-rc.52 for Apple silicon](https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.52/Okra-1.0.0-rc.52.dmg)
+[Download Okra v1.0.0-rc.53 for Apple silicon](https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.53/Okra-1.0.0-rc.53.dmg)
 
-Open With → Okra in Finder now shows the PDF in one window, reusing an empty Okra window instead of leaving it behind. Redact shows progress with a Cancel button, groups candidates by type with Approve All, skips street numbers and ZIP codes that were flagged as dates, and refuses to save a copy if any approved box cannot be applied. The format bar stays pinned while blocks scroll, and a selected block's source box is centered on the page.
+Rearranging pages and dropping PDFs into the thumbnail sidebar now happens instantly, the way it does in Preview. Moves, deletes and drops show on screen at once while the edit is verified in the background; if it can't be applied, the original page order comes back. Thumbnails move with their pages instead of re-rendering.
 
 Hover or select a parsed block to connect its PDF box to the matching Tags card with a green curve. The connection follows scrolling, zoom and resizing, and hides when either endpoint leaves view.
 
@@ -18,9 +18,9 @@ Native document editing, recent files, the Markup palette, thumbnail sidebar, pa
 
 The application and installer are Developer ID signed and Apple notarized. This prerelease requires macOS 13 or later on Apple silicon. Full Preview parity remains in progress.
 
-[Release notes and SHA-256 checksum](https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.52)
+[Release notes and SHA-256 checksum](https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.53)
 
-[Previous candidate: RC.51](https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.51). RC.43 was not published.
+[Previous candidate: RC.52](https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.52). RC.43 was not published.
 
 ## Updates
 
