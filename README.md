@@ -6,7 +6,7 @@ Official public downloads for Okra for Mac: private document processing on your 
 
 ## Mac installer
 
-[Download Okra v1.0.0-rc.53 for Apple silicon](https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.53/Okra-1.0.0-rc.53.dmg)
+[Download Okra v1.0.0-rc.53 for Apple silicon](https://github.com/okracomputer/desktop-releases/releases/download/desktop-v1.0.0-rc.53/Okra-1.0.0-rc.53.dmg)
 
 Rearranging pages and dropping documents into the thumbnail sidebar now happens instantly, the way it does in Preview. Moves, deletes and drops show on screen at once while the edit is verified in the background; if it can't be applied, the original page order comes back. Thumbnails move with their pages instead of re-rendering.
 
@@ -20,15 +20,15 @@ Native document editing, recent files, the Markup palette, thumbnail sidebar, pa
 
 The application and installer are Developer ID signed and Apple notarized. This prerelease requires macOS 13 or later on Apple silicon. Full Preview parity remains in progress.
 
-[Release notes and SHA-256 checksum](https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.53)
+[Release notes and SHA-256 checksum](https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.53)
 
-[Previous candidate: RC.52](https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.52). RC.43 was not published.
+[Previous candidate: RC.52](https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.52). RC.43 was not published.
 
 ## Updates
 
 Use **Check for Updates…** in a current public-feed build, or install the signed DMG above.
 
-[Public Sparkle update feed](https://raw.githubusercontent.com/okrapdf/desktop-releases/main/appcast.xml)
+[Public Sparkle update feed](https://raw.githubusercontent.com/okracomputer/desktop-releases/main/appcast.xml)
 
 RC.25 and older installers contain the previous private feed address. Install the current signed DMG manually to move onto this public update channel.
 

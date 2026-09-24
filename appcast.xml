@@ -2,7 +2,7 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>okraPDF Desktop Updates</title>
-    <link>https://raw.githubusercontent.com/okrapdf/desktop-releases/main/appcast.xml</link>
+    <link>https://raw.githubusercontent.com/okracomputer/desktop-releases/main/appcast.xml</link>
     <description>Signed prerelease updates for okraPDF on Mac.</description>
     <language>en</language>
     <item>
@@ -10,9 +10,9 @@
       <sparkle:version>202609232044</sparkle:version>
       <sparkle:shortVersionString>1.0.0-rc.53</sparkle:shortVersionString>
       <pubDate>Wed, 23 Sep 2026 20:54:00 +0000</pubDate>
-      <link>https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.53</link>
+      <link>https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.53</link>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.53/Okra-1.0.0-rc.53.dmg" sparkle:edSignature="aDkZUEJDyAJyGtCmQlF4XvLko9uj5Sg9imou+iuymKjMdiEczrLhAq5L2WW3T0DmPkNrnf9lBDB1F0YA8NFhAg==" length="57395154" type="application/octet-stream" />
+      <enclosure url="https://github.com/okracomputer/desktop-releases/releases/download/desktop-v1.0.0-rc.53/Okra-1.0.0-rc.53.dmg" sparkle:edSignature="aDkZUEJDyAJyGtCmQlF4XvLko9uj5Sg9imou+iuymKjMdiEczrLhAq5L2WW3T0DmPkNrnf9lBDB1F0YA8NFhAg==" length="57395154" type="application/octet-stream" />
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
     </item>
     <item>
@@ -20,9 +20,9 @@
       <sparkle:version>202609231917</sparkle:version>
       <sparkle:shortVersionString>1.0.0-rc.52</sparkle:shortVersionString>
       <pubDate>Wed, 23 Sep 2026 19:26:52 +0000</pubDate>
-      <link>https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.52</link>
+      <link>https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.52</link>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.52/Okra-1.0.0-rc.52.dmg" sparkle:edSignature="SSHD+MIFMtMdm31+ixjEXGh4wUMbbvIJtwLGtmqoPgNis4ca9uqZ/x6zPPH3rvxXB2FeSFawNmiW0X8BePwrCQ==" length="57385618" type="application/octet-stream" />
+      <enclosure url="https://github.com/okracomputer/desktop-releases/releases/download/desktop-v1.0.0-rc.52/Okra-1.0.0-rc.52.dmg" sparkle:edSignature="SSHD+MIFMtMdm31+ixjEXGh4wUMbbvIJtwLGtmqoPgNis4ca9uqZ/x6zPPH3rvxXB2FeSFawNmiW0X8BePwrCQ==" length="57385618" type="application/octet-stream" />
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
     </item>
     <item>
@@ -30,9 +30,9 @@
       <sparkle:version>202609221921</sparkle:version>
       <sparkle:shortVersionString>1.0.0-rc.51</sparkle:shortVersionString>
       <pubDate>Tue, 22 Sep 2026 19:30:27 +0000</pubDate>
-      <link>https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.51</link>
+      <link>https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.51</link>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.51/Okra-1.0.0-rc.51.dmg" sparkle:edSignature="01VYEQnN+sPktIUx2oTPa3dNyFGlt5L2+SzSO4ojmlOAwf13LcS4LyQQ9vHDkl8zHo0zuaLdD0yxp6F7XVsnCA==" length="57319075" type="application/octet-stream" />
+      <enclosure url="https://github.com/okracomputer/desktop-releases/releases/download/desktop-v1.0.0-rc.51/Okra-1.0.0-rc.51.dmg" sparkle:edSignature="01VYEQnN+sPktIUx2oTPa3dNyFGlt5L2+SzSO4ojmlOAwf13LcS4LyQQ9vHDkl8zHo0zuaLdD0yxp6F7XVsnCA==" length="57319075" type="application/octet-stream" />
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
     </item>
     <item>
@@ -40,9 +40,9 @@
       <sparkle:version>202609220311</sparkle:version>
       <sparkle:shortVersionString>1.0.0-rc.50</sparkle:shortVersionString>
       <pubDate>Tue, 22 Sep 2026 03:21:27 +0000</pubDate>
-      <link>https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.50</link>
+      <link>https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.50</link>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.50/Okra-1.0.0-rc.50.dmg" sparkle:edSignature="l4sM9NQveif+yKHUUHvZBDiNIUNWPs3PgLHFOStfSVy7WoCSmZhcfDhOOnwQx6kLrCKMQhJaRur8wgJmuvWcAg==" length="57313592" type="application/octet-stream" />
+      <enclosure url="https://github.com/okracomputer/desktop-releases/releases/download/desktop-v1.0.0-rc.50/Okra-1.0.0-rc.50.dmg" sparkle:edSignature="l4sM9NQveif+yKHUUHvZBDiNIUNWPs3PgLHFOStfSVy7WoCSmZhcfDhOOnwQx6kLrCKMQhJaRur8wgJmuvWcAg==" length="57313592" type="application/octet-stream" />
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
     </item>
     <item>
@@ -50,9 +50,9 @@
       <sparkle:version>202609212223</sparkle:version>
       <sparkle:shortVersionString>1.0.0-rc.49</sparkle:shortVersionString>
       <pubDate>Mon, 21 Sep 2026 22:50:11 +0000</pubDate>
-      <link>https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.49</link>
+      <link>https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.49</link>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.49/Okra-1.0.0-rc.49.dmg" sparkle:edSignature="aFG2dlMNbxML59nnNb3/Vk7qE94fYZhN1uG3RrN4/QSLyvoWvv0XPC1bDE++KHy5neOTc01j5SUWc6fhoMNZBQ==" length="57308675" type="application/octet-stream" />
+      <enclosure url="https://github.com/okracomputer/desktop-releases/releases/download/desktop-v1.0.0-rc.49/Okra-1.0.0-rc.49.dmg" sparkle:edSignature="aFG2dlMNbxML59nnNb3/Vk7qE94fYZhN1uG3RrN4/QSLyvoWvv0XPC1bDE++KHy5neOTc01j5SUWc6fhoMNZBQ==" length="57308675" type="application/octet-stream" />
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
     </item>
     <item>
@@ -60,9 +60,9 @@
       <sparkle:version>202609210001</sparkle:version>
       <sparkle:shortVersionString>1.0.0-rc.48</sparkle:shortVersionString>
       <pubDate>Mon, 21 Sep 2026 00:10:59 +0000</pubDate>
-      <link>https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.48</link>
+      <link>https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.48</link>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.48/Okra-1.0.0-rc.48.dmg" sparkle:edSignature="fYIIG6sVKswKplWBC7ByQzNyoeRlSm5dYeAoVE53Xv64VC/ktlTZdHWf3co1cvGg3tgazgkUfpb8fkAYeXwwBw==" length="57213829" type="application/octet-stream" />
+      <enclosure url="https://github.com/okracomputer/desktop-releases/releases/download/desktop-v1.0.0-rc.48/Okra-1.0.0-rc.48.dmg" sparkle:edSignature="fYIIG6sVKswKplWBC7ByQzNyoeRlSm5dYeAoVE53Xv64VC/ktlTZdHWf3co1cvGg3tgazgkUfpb8fkAYeXwwBw==" length="57213829" type="application/octet-stream" />
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
     </item>
     <item>
@@ -70,9 +70,9 @@
       <sparkle:version>202609200845</sparkle:version>
       <sparkle:shortVersionString>1.0.0-rc.47</sparkle:shortVersionString>
       <pubDate>Sun, 20 Sep 2026 08:55:19 +0000</pubDate>
-      <link>https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.47</link>
+      <link>https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.47</link>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.47/Okra-1.0.0-rc.47.dmg" sparkle:edSignature="OhO9/zfl5hUuObNoGDwXt3vaYl+Ryl/mV++ChdoEjw26UAro7lCS1fgRvWqzp+nfr0tYP07wb8ZxSJDXTkB8Bw==" length="57179324" type="application/octet-stream" />
+      <enclosure url="https://github.com/okracomputer/desktop-releases/releases/download/desktop-v1.0.0-rc.47/Okra-1.0.0-rc.47.dmg" sparkle:edSignature="OhO9/zfl5hUuObNoGDwXt3vaYl+Ryl/mV++ChdoEjw26UAro7lCS1fgRvWqzp+nfr0tYP07wb8ZxSJDXTkB8Bw==" length="57179324" type="application/octet-stream" />
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
     </item>
     <item>
@@ -80,9 +80,9 @@
       <sparkle:version>202609200811</sparkle:version>
       <sparkle:shortVersionString>1.0.0-rc.46</sparkle:shortVersionString>
       <pubDate>Sun, 20 Sep 2026 08:21:15 +0000</pubDate>
-      <link>https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.46</link>
+      <link>https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.46</link>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.46/Okra-1.0.0-rc.46.dmg" sparkle:edSignature="HRJAagndLXibGCk1R3/ZiexvDBWlJlMyiZad7kRSXo5ie8pYAM8HpDDHImKQM3uI5oNmSa4NQxjmBtyOs4u8Bg==" length="57179020" type="application/octet-stream" />
+      <enclosure url="https://github.com/okracomputer/desktop-releases/releases/download/desktop-v1.0.0-rc.46/Okra-1.0.0-rc.46.dmg" sparkle:edSignature="HRJAagndLXibGCk1R3/ZiexvDBWlJlMyiZad7kRSXo5ie8pYAM8HpDDHImKQM3uI5oNmSa4NQxjmBtyOs4u8Bg==" length="57179020" type="application/octet-stream" />
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
     </item>
     <item>
@@ -90,9 +90,9 @@
       <sparkle:version>202609200738</sparkle:version>
       <sparkle:shortVersionString>1.0.0-rc.45</sparkle:shortVersionString>
       <pubDate>Sun, 20 Sep 2026 07:47:53 +0000</pubDate>
-      <link>https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.45</link>
+      <link>https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.45</link>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.45/Okra-1.0.0-rc.45.dmg" sparkle:edSignature="1rzA5L2YQYQkyfjFujcPd/3+6n+K+3PgZW3CMWlOZRjFmxdkEQqJrabLoYfG0ziebyDKWzVxUpRwpfTEXgFPCQ==" length="57129699" type="application/octet-stream" />
+      <enclosure url="https://github.com/okracomputer/desktop-releases/releases/download/desktop-v1.0.0-rc.45/Okra-1.0.0-rc.45.dmg" sparkle:edSignature="1rzA5L2YQYQkyfjFujcPd/3+6n+K+3PgZW3CMWlOZRjFmxdkEQqJrabLoYfG0ziebyDKWzVxUpRwpfTEXgFPCQ==" length="57129699" type="application/octet-stream" />
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
     </item>
     <item>
@@ -100,9 +100,9 @@
       <sparkle:version>202609200641</sparkle:version>
       <sparkle:shortVersionString>1.0.0-rc.44</sparkle:shortVersionString>
       <pubDate>Sun, 20 Sep 2026 06:50:40 +0000</pubDate>
-      <link>https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.44</link>
+      <link>https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.44</link>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.44/Okra-1.0.0-rc.44.dmg" sparkle:edSignature="khAEagBUcZzNmqB8/5ixbRsvoIzIixUBVw1OVyN3xwYwZkjNfTiuo5XCzY+Fm/TUeUSwN5RCiYuTI4QX7l0NCQ==" length="57112117" type="application/octet-stream" />
+      <enclosure url="https://github.com/okracomputer/desktop-releases/releases/download/desktop-v1.0.0-rc.44/Okra-1.0.0-rc.44.dmg" sparkle:edSignature="khAEagBUcZzNmqB8/5ixbRsvoIzIixUBVw1OVyN3xwYwZkjNfTiuo5XCzY+Fm/TUeUSwN5RCiYuTI4QX7l0NCQ==" length="57112117" type="application/octet-stream" />
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
     </item>
     <item>
@@ -110,9 +110,9 @@
       <sparkle:version>202609182146</sparkle:version>
       <sparkle:shortVersionString>1.0.0-rc.42</sparkle:shortVersionString>
       <pubDate>Fri, 18 Sep 2026 22:12:27 +0000</pubDate>
-      <link>https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.42</link>
+      <link>https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.42</link>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.42/Okra-1.0.0-rc.42.dmg" sparkle:edSignature="M53R65QVXmidi0r+AM4OmrxT+ZmJDJHzU0W/6kLYStwA5ZzWwNKDnTfbSiXREJv6bwOUVrCu+LjTmbh85h3oCA==" length="57034879" type="application/octet-stream" />
+      <enclosure url="https://github.com/okracomputer/desktop-releases/releases/download/desktop-v1.0.0-rc.42/Okra-1.0.0-rc.42.dmg" sparkle:edSignature="M53R65QVXmidi0r+AM4OmrxT+ZmJDJHzU0W/6kLYStwA5ZzWwNKDnTfbSiXREJv6bwOUVrCu+LjTmbh85h3oCA==" length="57034879" type="application/octet-stream" />
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
     </item>
     <item>
@@ -120,9 +120,9 @@
       <sparkle:version>202609182016</sparkle:version>
       <sparkle:shortVersionString>1.0.0-rc.41</sparkle:shortVersionString>
       <pubDate>Fri, 18 Sep 2026 20:42:30 +0000</pubDate>
-      <link>https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.41</link>
+      <link>https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.41</link>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.41/Okra-1.0.0-rc.41.dmg" sparkle:edSignature="Kvd0h/xaZqnzpXTw2jRxXXMPpOytbdV/ev8rCc4j6hjEhYSwhTEyrpnx8AJHBtEOef/O9P8M2gzy6eyE/MQkCw==" length="57032358" type="application/octet-stream" />
+      <enclosure url="https://github.com/okracomputer/desktop-releases/releases/download/desktop-v1.0.0-rc.41/Okra-1.0.0-rc.41.dmg" sparkle:edSignature="Kvd0h/xaZqnzpXTw2jRxXXMPpOytbdV/ev8rCc4j6hjEhYSwhTEyrpnx8AJHBtEOef/O9P8M2gzy6eyE/MQkCw==" length="57032358" type="application/octet-stream" />
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
     </item>
     <item>
@@ -130,9 +130,9 @@
       <sparkle:version>202609181734</sparkle:version>
       <sparkle:shortVersionString>1.0.0-rc.40</sparkle:shortVersionString>
       <pubDate>Fri, 18 Sep 2026 18:00:27 +0000</pubDate>
-      <link>https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.40</link>
+      <link>https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.40</link>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.40/Okra-1.0.0-rc.40.dmg" sparkle:edSignature="ic39OuhOvteHil/fXT+5Zhat2XBTUFWeWFwsRjMmWSQ4ug4JNw+lpAYdjLRQ4AS+u7p60u0LOHTXfJJXggWrDQ==" length="57034559" type="application/octet-stream" />
+      <enclosure url="https://github.com/okracomputer/desktop-releases/releases/download/desktop-v1.0.0-rc.40/Okra-1.0.0-rc.40.dmg" sparkle:edSignature="ic39OuhOvteHil/fXT+5Zhat2XBTUFWeWFwsRjMmWSQ4ug4JNw+lpAYdjLRQ4AS+u7p60u0LOHTXfJJXggWrDQ==" length="57034559" type="application/octet-stream" />
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
     </item>
     <item>
@@ -140,9 +140,9 @@
       <sparkle:version>202609180655</sparkle:version>
       <sparkle:shortVersionString>1.0.0-rc.39</sparkle:shortVersionString>
       <pubDate>Fri, 18 Sep 2026 07:04:25 +0000</pubDate>
-      <link>https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.39</link>
+      <link>https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.39</link>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.39/Okra-1.0.0-rc.39.dmg" sparkle:edSignature="QdV5rOiewpaPS5A6Cx0TqPZyvJHwM7alWyjMXcBGiiOS2r2It/c0Qz9Pi/X741YEFqkHoD218C0kRGtczPCmCw==" length="56989796" type="application/octet-stream" />
+      <enclosure url="https://github.com/okracomputer/desktop-releases/releases/download/desktop-v1.0.0-rc.39/Okra-1.0.0-rc.39.dmg" sparkle:edSignature="QdV5rOiewpaPS5A6Cx0TqPZyvJHwM7alWyjMXcBGiiOS2r2It/c0Qz9Pi/X741YEFqkHoD218C0kRGtczPCmCw==" length="56989796" type="application/octet-stream" />
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
     </item>
     <item>
@@ -150,9 +150,9 @@
       <sparkle:version>202609161758</sparkle:version>
       <sparkle:shortVersionString>1.0.0-rc.38</sparkle:shortVersionString>
       <pubDate>Wed, 16 Sep 2026 18:06:40 +0000</pubDate>
-      <link>https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.38</link>
+      <link>https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.38</link>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.38/Okra-1.0.0-rc.38.dmg" sparkle:edSignature="F0RX2hhjK9PzJJ+32bQHFpvKLiU3ri+OSjcqE0RILfhgXxfj+ddp7Yjidx6jGornAySs1gdZcIGT+BDBRb2ICA==" length="56430596" type="application/octet-stream" />
+      <enclosure url="https://github.com/okracomputer/desktop-releases/releases/download/desktop-v1.0.0-rc.38/Okra-1.0.0-rc.38.dmg" sparkle:edSignature="F0RX2hhjK9PzJJ+32bQHFpvKLiU3ri+OSjcqE0RILfhgXxfj+ddp7Yjidx6jGornAySs1gdZcIGT+BDBRb2ICA==" length="56430596" type="application/octet-stream" />
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
     </item>
     <item>
@@ -160,9 +160,9 @@
       <sparkle:version>202609151903</sparkle:version>
       <sparkle:shortVersionString>1.0.0-rc.37</sparkle:shortVersionString>
       <pubDate>Tue, 15 Sep 2026 19:11:28 +0000</pubDate>
-      <link>https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.37</link>
+      <link>https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.37</link>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.37/Okra-1.0.0-rc.37.dmg" sparkle:edSignature="pQnQZ1MU5Jvse8BaS3zUTFms2u+OpJKyT4ckvtNsq5BnrLvSfFxE5WS6t/MzZXmTahe9cTQ8OHkW/jgFYqkGAQ==" length="56428480" type="application/octet-stream" />
+      <enclosure url="https://github.com/okracomputer/desktop-releases/releases/download/desktop-v1.0.0-rc.37/Okra-1.0.0-rc.37.dmg" sparkle:edSignature="pQnQZ1MU5Jvse8BaS3zUTFms2u+OpJKyT4ckvtNsq5BnrLvSfFxE5WS6t/MzZXmTahe9cTQ8OHkW/jgFYqkGAQ==" length="56428480" type="application/octet-stream" />
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
     </item>
     <item>
@@ -170,9 +170,9 @@
       <sparkle:version>202609151540</sparkle:version>
       <sparkle:shortVersionString>1.0.0-rc.36</sparkle:shortVersionString>
       <pubDate>Tue, 15 Sep 2026 15:49:03 +0000</pubDate>
-      <link>https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.36</link>
+      <link>https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.36</link>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.36/Okra-1.0.0-rc.36.dmg" sparkle:edSignature="heCC62mdHrN4EO+WQsD4NnG7QJVnLymLpvHz2mdd4nL2Vw0PQgCwjVFo8hmeFnHpHgYteZO4DPDH1fPxq4e4Dg==" length="56407997" type="application/octet-stream" />
+      <enclosure url="https://github.com/okracomputer/desktop-releases/releases/download/desktop-v1.0.0-rc.36/Okra-1.0.0-rc.36.dmg" sparkle:edSignature="heCC62mdHrN4EO+WQsD4NnG7QJVnLymLpvHz2mdd4nL2Vw0PQgCwjVFo8hmeFnHpHgYteZO4DPDH1fPxq4e4Dg==" length="56407997" type="application/octet-stream" />
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
     </item>
     <item>
@@ -180,9 +180,9 @@
       <sparkle:version>202609150908</sparkle:version>
       <sparkle:shortVersionString>1.0.0-rc.35</sparkle:shortVersionString>
       <pubDate>Tue, 15 Sep 2026 09:16:39 +0000</pubDate>
-      <link>https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.35</link>
+      <link>https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.35</link>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.35/Okra-1.0.0-rc.35.dmg" sparkle:edSignature="RrRpuB1qi0QodTU+0CpLP6gDLreubbCFtljdCMRIoT5lD2NiHhfTuiYN4c4jmGAzJRzx7WXJkvA/AenZ7xduAA==" length="56404949" type="application/octet-stream" />
+      <enclosure url="https://github.com/okracomputer/desktop-releases/releases/download/desktop-v1.0.0-rc.35/Okra-1.0.0-rc.35.dmg" sparkle:edSignature="RrRpuB1qi0QodTU+0CpLP6gDLreubbCFtljdCMRIoT5lD2NiHhfTuiYN4c4jmGAzJRzx7WXJkvA/AenZ7xduAA==" length="56404949" type="application/octet-stream" />
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
     </item>
     <item>
@@ -190,9 +190,9 @@
       <sparkle:version>202609142316</sparkle:version>
       <sparkle:shortVersionString>1.0.0-rc.34</sparkle:shortVersionString>
       <pubDate>Mon, 14 Sep 2026 23:24:22 +0000</pubDate>
-      <link>https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.34</link>
+      <link>https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.34</link>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.34/Okra-1.0.0-rc.34.dmg" sparkle:edSignature="AAfIuAExAIiK5+oeP75oG5nfZ9qaCRr/LAPxaUem9gqZNo33FIq6epMXb5n+fqFnlKHrkjD58Deh0ngXJrvDCg==" length="56365121" type="application/octet-stream" />
+      <enclosure url="https://github.com/okracomputer/desktop-releases/releases/download/desktop-v1.0.0-rc.34/Okra-1.0.0-rc.34.dmg" sparkle:edSignature="AAfIuAExAIiK5+oeP75oG5nfZ9qaCRr/LAPxaUem9gqZNo33FIq6epMXb5n+fqFnlKHrkjD58Deh0ngXJrvDCg==" length="56365121" type="application/octet-stream" />
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
     </item>
     <item>
@@ -200,9 +200,9 @@
       <sparkle:version>202609142107</sparkle:version>
       <sparkle:shortVersionString>1.0.0-rc.33</sparkle:shortVersionString>
       <pubDate>Mon, 14 Sep 2026 21:14:57 +0000</pubDate>
-      <link>https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.33</link>
+      <link>https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.33</link>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.33/Okra-1.0.0-rc.33.dmg" sparkle:edSignature="LogqFHCFc89nkunKBreVHkiRwbGoppHnJcJnr4HdoNFX18f6IrYpU2TzQ83IZzdbum1rVmDo2AZuADD7N5CvDg==" length="56480338" type="application/octet-stream" />
+      <enclosure url="https://github.com/okracomputer/desktop-releases/releases/download/desktop-v1.0.0-rc.33/Okra-1.0.0-rc.33.dmg" sparkle:edSignature="LogqFHCFc89nkunKBreVHkiRwbGoppHnJcJnr4HdoNFX18f6IrYpU2TzQ83IZzdbum1rVmDo2AZuADD7N5CvDg==" length="56480338" type="application/octet-stream" />
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
     </item>
     <item>
@@ -210,9 +210,9 @@
       <sparkle:version>202609131951</sparkle:version>
       <sparkle:shortVersionString>1.0.0-rc.32</sparkle:shortVersionString>
       <pubDate>Sun, 13 Sep 2026 19:58:38 +0000</pubDate>
-      <link>https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.32</link>
+      <link>https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.32</link>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.32/Okra-1.0.0-rc.32.dmg" sparkle:edSignature="YtHjrys+5lDDdII51laSX+h6V1EgHE0ODER6ZrRC5RcIVe8JTGme/0aH7xpOBDweeev7YFYsywZemFDLStFBBQ==" length="56483239" type="application/octet-stream" />
+      <enclosure url="https://github.com/okracomputer/desktop-releases/releases/download/desktop-v1.0.0-rc.32/Okra-1.0.0-rc.32.dmg" sparkle:edSignature="YtHjrys+5lDDdII51laSX+h6V1EgHE0ODER6ZrRC5RcIVe8JTGme/0aH7xpOBDweeev7YFYsywZemFDLStFBBQ==" length="56483239" type="application/octet-stream" />
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
     </item>
     <item>
@@ -220,9 +220,9 @@
       <sparkle:version>202609130008</sparkle:version>
       <sparkle:shortVersionString>1.0.0-rc.31</sparkle:shortVersionString>
       <pubDate>Sun, 13 Sep 2026 00:16:08 +0000</pubDate>
-      <link>https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.31</link>
+      <link>https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.31</link>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.31/Okra-1.0.0-rc.31.dmg" sparkle:edSignature="ybriOntYOm5XWAvj/qe085F/zWg2r9EFICiirYpDipAFxdIbBtlvMwpDkj8JJPuxeoRMVttLjrqiESkyXu1JAQ==" length="56498884" type="application/octet-stream" />
+      <enclosure url="https://github.com/okracomputer/desktop-releases/releases/download/desktop-v1.0.0-rc.31/Okra-1.0.0-rc.31.dmg" sparkle:edSignature="ybriOntYOm5XWAvj/qe085F/zWg2r9EFICiirYpDipAFxdIbBtlvMwpDkj8JJPuxeoRMVttLjrqiESkyXu1JAQ==" length="56498884" type="application/octet-stream" />
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
     </item>
     <item>
@@ -230,9 +230,9 @@
       <sparkle:version>202609122258</sparkle:version>
       <sparkle:shortVersionString>1.0.0-rc.30</sparkle:shortVersionString>
       <pubDate>Sat, 12 Sep 2026 23:05:42 +0000</pubDate>
-      <link>https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.30</link>
+      <link>https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.30</link>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.30/Okra-1.0.0-rc.30.dmg" sparkle:edSignature="nVdtNBrgbNmfJmfJtvcH/b8mxeaJ4ixY5FIb1zpakNCvq9yYx3zPFzyFEkW22UiafAhfrmmXxVJpCtjMbpIqCg==" length="56492281" type="application/octet-stream" />
+      <enclosure url="https://github.com/okracomputer/desktop-releases/releases/download/desktop-v1.0.0-rc.30/Okra-1.0.0-rc.30.dmg" sparkle:edSignature="nVdtNBrgbNmfJmfJtvcH/b8mxeaJ4ixY5FIb1zpakNCvq9yYx3zPFzyFEkW22UiafAhfrmmXxVJpCtjMbpIqCg==" length="56492281" type="application/octet-stream" />
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
     </item>
     <item>
@@ -240,9 +240,9 @@
       <sparkle:version>202609121801</sparkle:version>
       <sparkle:shortVersionString>1.0.0-rc.29</sparkle:shortVersionString>
       <pubDate>Sat, 12 Sep 2026 18:09:51 +0000</pubDate>
-      <link>https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.29</link>
+      <link>https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.29</link>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.29/Okra-1.0.0-rc.29.dmg" sparkle:edSignature="74gTrMVgtwdhazuRYe0QRAEHdIo4NEaX66aH1UBTazF8g54LUkb13UXyhgHAZxlwlbcrEAjagY+tc6VKSrjMAA==" length="60705584" type="application/octet-stream" />
+      <enclosure url="https://github.com/okracomputer/desktop-releases/releases/download/desktop-v1.0.0-rc.29/Okra-1.0.0-rc.29.dmg" sparkle:edSignature="74gTrMVgtwdhazuRYe0QRAEHdIo4NEaX66aH1UBTazF8g54LUkb13UXyhgHAZxlwlbcrEAjagY+tc6VKSrjMAA==" length="60705584" type="application/octet-stream" />
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
     </item>
     <item>
@@ -250,9 +250,9 @@
       <sparkle:version>202609112215</sparkle:version>
       <sparkle:shortVersionString>1.0.0-rc.26</sparkle:shortVersionString>
       <pubDate>Fri, 11 Sep 2026 22:22:55 +0000</pubDate>
-      <link>https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.26</link>
+      <link>https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.26</link>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.26/Okra-1.0.0-rc.26.dmg" sparkle:edSignature="CUS/6/DCs02BQPXb0wLOqoI6oTAG1NresA3xGKlhGGqNS5K3qn/JSfIzLzbJw4YHelyND474LqemAHZ5Q3qcDQ==" length="58844677" type="application/octet-stream" />
+      <enclosure url="https://github.com/okracomputer/desktop-releases/releases/download/desktop-v1.0.0-rc.26/Okra-1.0.0-rc.26.dmg" sparkle:edSignature="CUS/6/DCs02BQPXb0wLOqoI6oTAG1NresA3xGKlhGGqNS5K3qn/JSfIzLzbJw4YHelyND474LqemAHZ5Q3qcDQ==" length="58844677" type="application/octet-stream" />
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
     </item>
     <item>
@@ -260,9 +260,9 @@
       <sparkle:version>202609092327</sparkle:version>
       <sparkle:shortVersionString>1.0.0-rc.25</sparkle:shortVersionString>
       <pubDate>Wed, 09 Sep 2026 23:32:52 +0000</pubDate>
-      <link>https://github.com/okrapdf/desktop-releases/releases/tag/desktop-v1.0.0-rc.25</link>
+      <link>https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.25</link>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/okrapdf/desktop-releases/releases/download/desktop-v1.0.0-rc.25/Okra-1.0.0-rc.25.dmg" sparkle:edSignature="DqDsxU0C5V8WvJbqsJSOgoOqk+au0E58G3clfQ9LcXWt8NGyHcolk9Oq4Lexg/ruYrhLhxbTk9/eABAMTG0uAw==" length="4500936" type="application/octet-stream" />
+      <enclosure url="https://github.com/okracomputer/desktop-releases/releases/download/desktop-v1.0.0-rc.25/Okra-1.0.0-rc.25.dmg" sparkle:edSignature="DqDsxU0C5V8WvJbqsJSOgoOqk+au0E58G3clfQ9LcXWt8NGyHcolk9Oq4Lexg/ruYrhLhxbTk9/eABAMTG0uAw==" length="4500936" type="application/octet-stream" />
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
     </item>
   </channel>
