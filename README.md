@@ -6,7 +6,9 @@ Official public downloads for Okra for Mac: private document processing on your 
 
 ## Mac installer
 
-[Download Okra v1.0.0-rc.53 for Apple silicon](https://github.com/okracomputer/desktop-releases/releases/download/desktop-v1.0.0-rc.53/Okra-1.0.0-rc.53.dmg)
+[Download Okra v1.0.0-rc.55 for Apple silicon](https://github.com/okracomputer/desktop-releases/releases/download/desktop-v1.0.0-rc.55/Okra-1.0.0-rc.53.dmg)
+
+RC.55 restores the RC.53 workspace after regressions in RC.54. It is a newer signed update, so RC.54 installations can move forward through Check for Updates. The document-tool expansion and optional Bates module introduced in RC.54 are removed from this candidate.
 
 Rearranging pages and dropping documents into the thumbnail sidebar now happens instantly, the way it does in Preview. Moves, deletes and drops show on screen at once while the edit is verified in the background; if it can't be applied, the original page order comes back. Thumbnails move with their pages instead of re-rendering.
 
@@ -20,9 +22,9 @@ Native document editing, recent files, the Markup palette, thumbnail sidebar, pa
 
 The application and installer are Developer ID signed and Apple notarized. This prerelease requires macOS 13 or later on Apple silicon. Full Preview parity remains in progress.
 
-[Release notes and SHA-256 checksum](https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.53)
+[Release notes and SHA-256 checksum](https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.55)
 
-[Previous candidate: RC.52](https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.52). RC.43 was not published.
+[Previous workspace baseline: RC.53](https://github.com/okracomputer/desktop-releases/releases/tag/desktop-v1.0.0-rc.53). RC.43 was not published.
 
 ## Updates
 
